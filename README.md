@@ -1,2 +1,5 @@
 # travel
-just so so
+
+hi everyone
+i am lulu
+welcome to my workspace
